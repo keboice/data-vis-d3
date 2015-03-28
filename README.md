@@ -9,3 +9,5 @@ Some of these examples are adapted from code files for *Interactive Data Visuali
 - [O’Reilly book page](http://shop.oreilly.com/product/0636920026938.do)
 - [Online preview](http://chimera.labs.oreilly.com/books/1230000000345/)
 - [All code samples for the book](https://github.com/alignedleft/d3-book)
+
+Read by me!
